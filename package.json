@@ -7,7 +7,7 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "A romantic Hinglish chatbot simulating heartfelt conversations with an ex-girlfriend, powered by Google Gemini AI.",
   "dependencies": {
     "@google/genai": "^1.4.0"
   }
