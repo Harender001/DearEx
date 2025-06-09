@@ -1,6 +1,6 @@
 # Ex-Girlfriend Chatbot 💔
 
-A fun, romantic Hinglish chatbot that simulates conversations with an ex-girlfriend . Powered by Google Gemini AI, it replies with emotional, emoji-rich messages.
+A fun, romantic Hinglish chatbot that simulates conversations with an ex-girlfriend named Anjali. Powered by Google Gemini AI, it replies with emotional, emoji-rich messages.
 
 ## Features
 - Hinglish conversational style with emojis  
@@ -11,6 +11,10 @@ A fun, romantic Hinglish chatbot that simulates conversations with an ex-girlfri
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript  
 - Backend: Node.js with `@google/genai` (Google Gemini AI)  
+
+## Deployment
+The app is deployed on Vercel.  
+Access it here: [[Your Vercel URL here](https://dear-qioztj4f1-harenders-projects.vercel.app/first.html)]  
 
 ## Setup
 1. Clone the repository  
